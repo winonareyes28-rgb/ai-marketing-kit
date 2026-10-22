@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>26 battle-tested marketing skills you plug into your AI agent, wholesale.</b><br>
+  <b>27 battle-tested marketing skills you plug into your AI agent, wholesale.</b><br>
   SEO/GEO, analytics, ads, social automation, video editing, thumbnails, image generation, lead magnets, print design — all of it.
 </p>
 
@@ -81,6 +81,7 @@ cp -r ai-marketing-kit/skills/* ~/.claude/skills/
 | **dans-advice** | Realistic marketing advice in Dan's voice — diagnose → 2–3 prescriptions → one action for today |
 | **yc-office-hours** | YC-partner-style validation of ideas, campaigns, GTM |
 | **go-viral-or-die** | Viral/stunt marketing ideas (Roy Lee playbook) |
+| **story-audit** | Compare your winning vs losing videos to find the hidden word/structure patterns behind the gap (Kallaway method) |
 | **first-principles-coach** | Challenge pricing/product/growth assumptions from first principles |
 
 ## Keys (only for the skills you use)
