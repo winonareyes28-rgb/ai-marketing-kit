@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>28 battle-tested marketing skills you plug into your AI agent, wholesale.</b><br>
+  <b>30 battle-tested marketing skills you plug into your AI agent, wholesale.</b><br>
   SEO/GEO, analytics, ads, social automation, video editing, thumbnails, image generation, lead magnets, print design — all of it.
 </p>
 
@@ -65,6 +65,8 @@ cp -r ai-marketing-kit/skills/* ~/.claude/skills/
 | **longform-to-content** | One long recording → full edit + 4–8 Shorts + CTR thumbnails + scheduled publishing |
 | **ad-video** | Short ad/promo videos (15–60s) — motion graphics + AI visuals via HyperFrames, A/B variants mandatory |
 | **addictive-editing** | Retention edit plans & audits — 4 pillars (viewer experience, visual variety, continuity, immersive audio) + the Learn By Leo look |
+| **expensive-edit** | Make cheap-looking edits look premium — 5-fix audit (clutter, fonts, colour, SFX, easing) + ffmpeg finishing pass (NaughtyyJuan method) |
+| **cinematic-vlog-edit** | Simple cinematic vlogs — shot-sequence hook, SFX on every action, music-first by BPM & dips, quick grade (Andrew method) |
 
 **Publishing · Ads · Leads**
 | Skill | What it does |
